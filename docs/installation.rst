@@ -15,7 +15,7 @@ Requirements
 
 The following list provides information about the PVC dependencies.
 
-* `Python 3.2.x or later`_
+* `Python 2.7.x, 3.2.x or later`_
 * `humanize`_
 * `pythondialog`_
 * `pyVmomi`_
@@ -81,7 +81,7 @@ as well.
 
 .. _`pip`: https://pypi.python.org/pypi/pip
 .. _`Github`: https://github.com/dnaeon/pvc
-.. _`Python 3.2.x or later`: http://python.org/
+.. _`Python 2.7.x, 3.2.x or later`: http://python.org/
 .. _`humanize`: https://github.com/jmoiron/humanize
 .. _`pythondialog`: http://pythondialog.sourceforge.net/
 .. _`pyVmomi`: https://github.com/vmware/pyvmomi
@@ -90,3 +90,11 @@ as well.
 .. _`gnuplot`: http://www.gnuplot.info/
 .. _`VMware Player`: http://www.vmware.com/products/player
 .. _`virtualenv`: https://virtualenv.pypa.io/en/latest/
+
+
+OS Specific Installation
+========================
+
+Installing on OSX:
+
+Installing on Ubuntu Linux:

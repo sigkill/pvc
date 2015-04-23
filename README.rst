@@ -1,6 +1,10 @@
 Python vSphere Client with a dialog(1) interface
 ================================================
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/dnaeon/pvc
+   :target: https://gitter.im/dnaeon/pvc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 PVC is an interactive text-mode VMware vSphere Client with a
 `dialog(1)`_ interface for GNU/Linux systems built on top of the
 `pyVmomi`_ VMware vSphere API Python bindings.
@@ -45,3 +49,4 @@ PVC issue tracker on `Github`_.
 .. _`pyVmomi`: https://github.com/vmware/pyvmomi
 .. _`BSD License`: http://opensource.org/licenses/BSD-2-Clause
 .. _`Github`: https://github.com/dnaeon/pvc
+
